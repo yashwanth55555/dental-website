@@ -1,0 +1,8 @@
+{
+  "name": "K.M Dental Care - Hassan",
+  "description": "Modern patient-focused dental clinic in Race Course Road, Rangoli Halla, Hassan, Karnataka. Comfortable treatments, root canal care, implants, braces, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
