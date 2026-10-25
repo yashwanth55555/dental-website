@@ -3,11 +3,7 @@
 A modern, responsive website concept for **K.M Dental Care**, a dental
 clinic in Hassan, Karnataka. The website is designed to help patients
 learn about the clinic, explore treatments, build confidence in the
-clinic's care standards, and book appointments.
-
-## Website Preview
-
-![K.M Dental Care website preview](assets/clinic-website-preview.jpg)
+clinic's care standards, and book appointments. 
 
 ## Features
 
@@ -54,16 +50,6 @@ to convey cleanliness, trust, and professionalism.
     (for example, `npm run dev`).
 
 The exact commands depend on the technologies used in this repository.
-
-## Suggested Improvements
-
--   Connect the appointment form to a real booking workflow.
--   Add individual pages or sections for treatments and services.
--   Make phone and booking links work on mobile devices.
--   Add accessibility features, descriptive image alt text, and
-    keyboard-friendly navigation.
--   Add privacy information if the website collects patient details.
--   Test the site on mobile, tablet, and desktop screen sizes.
 
 ## Repository Structure
 
